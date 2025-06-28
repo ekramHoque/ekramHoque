@@ -54,7 +54,7 @@
 
 
 ##  Backend  
-[![TypeScript Badge](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
+[![Python Badge](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)
 
 
 
